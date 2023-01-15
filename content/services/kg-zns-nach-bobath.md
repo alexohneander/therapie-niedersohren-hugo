@@ -13,7 +13,7 @@ Das Bobath-Konzept ist für Menschen mit neurologischen Erkrankungen ausgelegt. 
 Schlaganfalls) oder angeborenen Erkrankungen des zentralen Nervensystems.
 
 Mit Rücksichtnahme auf die individuelle Situation des Betroffenen, hat das Bobath-Konzept das Wiedererlernen der Bewegungsfähigkeit und
-damit die Förderung der Selbständigkeit zum Ziel.Aus dem Befund der Bewegungsanalyse ergibt sich die Zielsetzung und die Strategie der Behandlung.
+damit die Förderung der Selbständigkeit zum Ziel. Aus dem Befund der Bewegungsanalyse ergibt sich die Zielsetzung und die Strategie der Behandlung.
 
 **Therapieziele können sein:**
 

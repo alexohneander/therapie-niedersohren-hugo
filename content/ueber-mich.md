@@ -12,3 +12,8 @@ Zusätzlich behandelte ich auch im Krankenhaus Patienten auf Rezept.
 
 Anschließend arbeitete ich acht Jahre in einem Ambulanten Rehazentrum für Orthopädie und Neurologie. Auch hier behandelte ich ebenso Rezeptpatienten und BG-Patienten.
 In all diesen Bereichen konnte ich meine beruflichen Fortbildungen mit einfließen lassen.
+
+### Fortbildungen
+
+- Fortbildung 1
+- Fortbildung 2
