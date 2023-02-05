@@ -15,5 +15,16 @@ In all diesen Bereichen konnte ich meine beruflichen Fortbildungen mit einfließ
 
 ### Fortbildungen
 
-- Fortbildung 1
-- Fortbildung 2
+- Manuelle Lymphdrainage
+- Sportphysiotherapeut
+- Rückenschullehrer des VPT
+- Manuelle Therapie (Extemitäten)
+- Manuelle Therapie (Wirbeläule)
+- Medizinisches Aufbautraining (MAT)
+- Präventive Rückenschule nach KddR
+- Gerontopsychatrie
+- Grundkurs Integrative Validation nach Richard
+- Grundlagenseminar Demenz
+- Grundkurs Bobath-Konzept
+- Osteopathische Therapie (DGOM)
+- Myofasziale Triggerpunkttherapie

@@ -1,16 +1,16 @@
 [{
         "title": "Befunderhebung",
-        "description": "New clients recieve an obligation free consultation.",
-        "image": "images/features/noun_branding_1885335.svg"
+        "description": "Befunderhebung als Basis für eine erfolgreiche Therapie",
+        "image": "images/illustrations/stethoscope-solid.svg"
     },
     {
         "title": "Behandlung",
-        "description": "All members of our team are certified accountants.",
-        "image": "images/features/noun_The Process_1885341.svg"
+        "description": "Ganzheiltiches Behandlungsspektrum um auf individuelle Beschwerden einzugehen",
+        "image": "images/illustrations/hand-holding-medical-solid.svg"
     },
     {
         "title": "Prävention",
-        "description": "We stay up to date on the latest changes to the tax code.",
-        "image": "images/features/noun_3d modeling_1885342.svg"
+        "description": "Maßnahmen um langfristige Ergebnisse zu erzielen",
+        "image": "images/illustrations/person-circle-check-solid.svg"
     }
 ]

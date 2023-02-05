@@ -5,3 +5,7 @@ draft: false
 featured: false
 weight: 9
 ---
+
+Gezielte Rehabilitation und Vorbeugung von Sportverletzung
+
+Sportphysiotherapie ist ein Teil der Physiotherapie in der gezielt auf die Rehabilitations / Vorbeugung von Sportverletzung eingegangen wird oder eine akute Sportverletzung im Hinblick auf die Rehabilitation zur Sportart behandelt wird.

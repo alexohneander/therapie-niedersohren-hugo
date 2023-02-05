@@ -6,4 +6,6 @@ featured: false
 weight: 8
 ---
 
-Die Ultraschalltherapie ist ein Bereich der Physikalischen Therapie bzw. der Elektrotherapie und beschreibt ein medizinisches Verfahren zur Schmerzlinderung und Unterstützung von Selbstheilungsprozessen mittels Ultraschall.
+Ultraschalltherapie als Physikalischen Therapie
+
+Schallwellen wirken tief im Gewebe schmerzlindernd, durchblutungsfördernd und stoffwechselanregend. Eine Ultraschallbehandlung wird eingesetzt vor allem bei schmerzhaften Beschwerden wie Rückenschmerzen oder Gelenkerkrankungen und bei Narben.
