@@ -3,6 +3,8 @@ themesDir = "themes"
 theme = "serif"
 languageCode = "de-DE"
 title = "Physiotherapie Ricklin-Thiry"
+relativeURLs = true
+canonifyURLs = true
 
 [module]
   [module.hugoVersion]
@@ -45,7 +47,7 @@ title = "Physiotherapie Ricklin-Thiry"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = '© 2022 Thomas Ricklin-Thiry'
+    copyright_text = '© 2023 Thomas Ricklin-Thiry'
 
 [menu]
   # Main Menu
