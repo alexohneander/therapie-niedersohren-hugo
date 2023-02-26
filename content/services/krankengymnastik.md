@@ -8,6 +8,8 @@ weight: 1
 
 Wiederherstellung der Funktionalität und des Zusammenspiels von Knochen, Muskeln und Bändern
 
+![Krankengymnastik](/images/headers/test/thomas-ricklin-thiry-krankengymnastik.JPG)
+
 In der Krankengymnastik werden aktive und passive Bewegungen durchgeführt. Das Ziel ist die Wiederherstellung der Funktionalität und des Zusammenspiels von Knochen, Muskeln und Bändern. Damit werden Fehlhaltungen vermieden und Schmerzen reduziert. Hierzu wird immer eine Anamnese durchgeführt. Darauf basiert die folgende Behandlung. Diese hat dann nicht nur die Verbesserung des Einzelproblems, sondern auch die Gesamtheit des Menschen im Blick. Krankengymnastik kann daher sehr weit gefächert sein und findet oftmals nicht nur "auf der Bank" statt. Letztlich soll der Patient wieder in den normalen Alltag - auch in seine sportlichen Hobbys - zurückkehren können.
 
 Krankengymnastik wird in der Regel zur Behandlung einer bestehenden Krankheit oder in der Nachbehandlung einer Krankheit, Operation oder eines Unfalles eingesetzt. Die Krankengymnastik kann vor allem bei Schäden am Bewegungsapparat, Haltungsschäden, Förderung der Herz- und Lungenfunktion sowie bei Bewegungsstörungen (z.B. nach einem Schlaganfall) eingesetzt werden. Mit der Krankengymnastik sollen körperliche Defizite gezielt ausgeglichen werden. Die Krankengymnastik lässt sich in aktive und passive Elemente einteilen.

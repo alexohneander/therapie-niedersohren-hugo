@@ -8,6 +8,8 @@ weight: 14
 
 Ausgleich von muskulären Dysbalancen
 
+![Krankengymnastik am Gerät](/images/headers/test/thomas-ricklin-thiry-physiotherapeut-krankengymnastik-am-geraet.JPG)
+
 In der Krankengymnastik am Gerät geht es vorwiegend um den Ausgleich von muskulären Dysbalancen, sowie funktionelle Kräftigung. Dabei steht die Ausbildung der körperstabilisierenden Muskulatur anfangs im Vordergrund. Später erfolgt dann wieder die Anpassung an den Alltag hinsichtlich Sport oder Freizeit. Das Training erfolgt unter Zuhilfenahme von speziell ausgewählten Trainingsgeräten. Die Krankengymnastik am Gerät ist auf Beschwerden des gesamten Bewegungsapparates ausgerichtet, d.h. speziell auf Wirbelsäule, Schulter, Knie und Hüfte.
 
 **Anwendungsfelder der Krankengymnastik am Gerät**

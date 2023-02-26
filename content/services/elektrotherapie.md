@@ -8,6 +8,8 @@ weight: 7
 
 Elektrischen Strom zu therapeutischen Zwecken nutzen
 
+![Elektrotherapie](/images/headers/test/thomas-ricklin-thiry-physiotherapeut-elektrotherapie.JPG)
+
 Die Elektrotherapie nutzt elektrischen Strom zu therapeutischen Zwecken. Als Teilbereich der Physiotherapie kommt sie häufig begleitend bei der Behandlung von Erkrankungen und Beschwerden zum Einsatz, zum Beispiel zur Schmerzlinderung.
 
 ### Was ist eine Elektrotherapie?

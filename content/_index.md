@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Physiotherapie Ricklin-Thiry
 
-Ich biete meinen Patient/-innen ein breites Spektrum physiotherapeutischer Maßnahmen als Rezeptleisung sowie als Selbstzahlerleistung an. Sie finden mich in der Praxisgemeinschaft Schmitt/Mähringer in Niedersohren.
+Ich biete meinen Patient/-innen ein breites Spektrum physiotherapeutischer Maßnahmen als Rezeptleisung sowie als Selbstzahlerleistung an. Sie finden mich in der Praxisgemeinschaft **Schmitt/Mähringer** in Niedersohren.
