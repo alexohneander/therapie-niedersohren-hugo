@@ -5,7 +5,7 @@ intro_image: 'images/headers/test/intro_2.JPG'
 intro_image_absolute: true
 ---
 
-## Physiotherapeut, Masseur u. med. Bademeister, Osteopathische Therapie D.O.T.™
+## Physiotherapeut, Sekt. Heilpraktiker für Physiotherapie, Osteopathische Therapie D.O.T.™
 
 In meiner über 20 jährigen Zeit im Krankenhaus, konnte ich in vielen unterschiedlichen Fachabteilungen Erfahrung in der zugehörigen Physiotherapie sammeln.
 
