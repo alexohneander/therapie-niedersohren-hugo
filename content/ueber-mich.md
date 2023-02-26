@@ -5,6 +5,8 @@ intro_image: 'images/headers/test/intro_2.JPG'
 intro_image_absolute: true
 ---
 
+## Physiotherapeut, Masseur u. med. Bademeister, Osteopathische Therapie D.O.T.™
+
 In meiner über 20 jährigen Zeit im Krankenhaus, konnte ich in vielen unterschiedlichen Fachabteilungen Erfahrung in der zugehörigen Physiotherapie sammeln.
 
 Neben den üblichen Bereichen wie Chirurgie, Orthopädie, Innere Medizin und Gynäkologie, arbeitete ich unter anderem in Bereichen der Plastischen- und Handchirurgie, der Geriatrie und auf der Palliativstation.
@@ -15,16 +17,16 @@ In all diesen Bereichen konnte ich meine beruflichen Fortbildungen mit einfließ
 
 ### Fortbildungen
 
-- Manuelle Lymphdrainage
-- Sportphysiotherapeut
-- Rückenschullehrer des VPT
-- Manuelle Therapie (Extemitäten)
-- Manuelle Therapie (Wirbeläule)
+- Manuelle Therapie
+- Krankengymnastik nach Bobath
 - Medizinisches Aufbautraining (MAT)
+- Manuelle Lymphdrainage
+- Sportphysiotherapeut des VPT
+- Manuelle Myofasziale Triggerpunkttherapie nach IMTT Standard
+- Rückenschullehrer des VPT
 - Präventive Rückenschule nach KddR
 - Gerontopsychatrie
 - Grundkurs Integrative Validation nach Richard
 - Grundlagenseminar Demenz
-- Grundkurs Bobath-Konzept
-- Osteopathische Therapie (DGOM)
-- Myofasziale Triggerpunkttherapie
+- Anerkannter Tierphysiotherapeut des Deutschen Verbandes für Physiotherapie (ZVK) e.V.
+- Osteopathische Therapie D.O.T.™
