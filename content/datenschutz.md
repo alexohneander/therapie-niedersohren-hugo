@@ -52,6 +52,14 @@ Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zu
 
 Sie können viele Online-Anzeigen-Cookies von Unternehmen über die US-amerikanische Seite aboutads.info/choices oder die EU-Seite youronlinechoices.com/uk/your-ad-choices verwalten.
 
+#### Verwendung von Webfonts
+Auf diesen Internetseiten werden zur einheitlichen Darstellung von Schriftarten externe Schriften von Fonts.com verwendet. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
+
+Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von dem Webfont-Anbieter aufnehmen. Wenn ihr Browser diese Funktion nicht unterstützt, wird eine Standardschrift von ihrem Computer zur Anzeige genutzt. Die Nutzung der Webfont erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
+
+Weitere Informationen zu Google Web Fonts finden Sie unter 
+https://developers.google.com/fonts/faq 
+
 #### Einsatz von Java-Script
 
 Auf dieser Website verwenden wir aktive Java-Script-Inhalte von externen Anbietern. Durch Aufruf unserer Internetseite erhalten diese externen Anbieter ggf. personenbezogene Informationen über Ihren Besuch auf unserer Internetseite. Hierbei ist eine Verarbeitung von Daten außerhalb der EU möglich. Sie können dies verhindern, indem Sie einen Java-Script-Blocker wie z.B. das Browser-Plugin 'NoScript' installieren (www.noscript.net) oder java-Script in Ihrem Browser deaktivieren. Jedoch weisen wir darauf hin, dass unsere Webseite und Service nur eingeschränkte funktioniert, wenn Sie den Einsatz von Java-Script unterbinden.
