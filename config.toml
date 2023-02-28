@@ -22,9 +22,9 @@ canonifyURLs = true
 
   [params.logo]
     mobile = "images/logo/logo_ricklin.png"
-    mobile_height = "36px"
+    mobile_height = "75px"
     desktop = "images/logo/logo_ricklin.png"
-    desktop_height = "80px"
+    desktop_height = "120px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.fonts]
